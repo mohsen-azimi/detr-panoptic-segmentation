@@ -10,4 +10,4 @@
 6. Once changed, open this [link](https://colab.research.google.com/drive/15O413og2oirRTu2zIwqKYb0GeMhUo8BQ?authuser=1#scrollTo=U_wDp99daNb1&line=21&uniqifier=1) and paste any image url in `line 1` for which you want to visualize the predictions.
 7. Once done, go to `Runtime` -> `Run all`.
 8. It will prompt to validate drive access after a while, to be able to access the specified models weights file.
-9. The output of the final cell wil be the predictions of the image provided.
+9. The output of the final cell will be the predictions of the image provided.
