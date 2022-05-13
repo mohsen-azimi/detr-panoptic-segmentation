@@ -3,6 +3,7 @@
 ## Directions to try out Bounding Box Predictions
 1. [Open this link which directs to the Colab file](https://colab.research.google.com/drive/15O413og2oirRTu2zIwqKYb0GeMhUo8BQ?usp=sharing) where you can try out predictions on your own images, or see the results of predictions done already.
 2. Save a copy of this colab file and follow the below steps there.
+    - `File` -> `Save a copy in Drive`
 3. Download this [weights file and upload it in your drive](https://drive.google.com/file/d/1K_sIyMr-qzKgnBUSK4CV_2bhU0m5sBik/view?usp=sharing).
 4. Once uploaded, [visit this cell in opened colab file](https://colab.research.google.com/drive/15O413og2oirRTu2zIwqKYb0GeMhUo8BQ?authuser=1#scrollTo=5NaMGhGfwg0C&line=1&uniqifier=1).
 5. In that cell, in line number 3, change path to wherever you have uploaded the models file downloaded in step [3].
