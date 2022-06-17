@@ -1,5 +1,6 @@
 # PANOPTIC SEGMENTATION USING DETR
 
+
 ## Directions to try out Bounding Box Predictions
 1. [Open this link which directs to the Colab file](https://colab.research.google.com/drive/15O413og2oirRTu2zIwqKYb0GeMhUo8BQ?usp=sharing) where you can try out predictions on your own images, or see the results of predictions done already.
 2. Save a copy of this colab file and follow the below steps there.
